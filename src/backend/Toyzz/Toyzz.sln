@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toyzz.Domain", "Toyzz.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toyzz.Shared", "Toyzz.Shared\Toyzz.Shared.csproj", "{0F7AD410-D821-4DAF-8026-53ACA12409AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toyzz.Application", "Toyzz.Application\Toyzz.Application.csproj", "{D1E8F370-CC5C-4E05-9BEC-684BFB783349}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0F7AD410-D821-4DAF-8026-53ACA12409AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F7AD410-D821-4DAF-8026-53ACA12409AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F7AD410-D821-4DAF-8026-53ACA12409AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E8F370-CC5C-4E05-9BEC-684BFB783349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E8F370-CC5C-4E05-9BEC-684BFB783349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E8F370-CC5C-4E05-9BEC-684BFB783349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E8F370-CC5C-4E05-9BEC-684BFB783349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

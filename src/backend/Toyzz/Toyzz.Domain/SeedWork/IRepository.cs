@@ -13,4 +13,6 @@ public interface IRepository<T> where T : class
 
     void Remove(T entity);
     void RemoveRange(IEnumerable<T> entities);
+
+    void Update(T t);
 }

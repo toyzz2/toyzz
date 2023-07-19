@@ -2,7 +2,7 @@
 
 namespace Toyzz.Domain.AggregatesModel.Blogs;
 
-public class Blog:EntityBase
+public class Blog : EntityBase
 {
     /// <summary>
     ///     博客名称
